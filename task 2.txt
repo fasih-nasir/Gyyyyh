@@ -1,0 +1,37 @@
+Task 1: Library Book Management System
+
+Scenario:
+
+A library wants to develop a Library Book Management System to maintain book records efficiently. The system should allow the librarian to add, view, search, update, and delete book records. The program should use arrays, structures, functions, and pointers to manage the book information.
+
+Create a Book structure containing the following members:
+
+Book ID
+
+Title
+
+Author
+
+Price
+
+Availability Status
+
+Write a menu-driven C++ program that performs the following operations:
+
+Add a Book: Enter and store the details of a new book in the library. Ensure that the Book ID is unique.
+
+Display All Books: Display the details of all books currently stored in the system.
+
+Search for a Book: Search for a book using its Book ID and display its complete details if found.
+
+Update Book Information: Search for a book using its Book ID and allow the librarian to update its title, author, price, or availability status.
+
+Delete a Book: Search for a book using its Book ID and remove its record from the array if found.
+
+Count Total Books: Display the total number of books currently stored in the library.
+
+Display Available Books: Display the details of all books that are currently available for borrowing.
+
+Find the Most Expensive Book: Identify and display the details of the book with the highest price.
+
+Exit: Terminate the program.
